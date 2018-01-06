@@ -15,7 +15,7 @@ Five classes build the bulk:
 - `checkpuzzle.py`, which given a puzzle in a string format and a set of moves to do into such puzzle, checks if a goal state is obtained (which is perfect for testing purposes);
 - `puzzle.py`, which implements the TilePuzzle object and its methods;
 - `searches.py`, which is consisted by our search algorithms;
-- node.py, which implements the Node object and its methods.
+- `node.py`, which implements the Node object and its methods.
 
 From these, `tilepuzzle.py`, `puzzle.py` and `checkpuzzle.py` were given by the course’s tutor and have gone through slight modifications to accommodate the student’s resolution. The approach the student has taken goes through running every algorithm orderly, one after the other, by generating a random puzzle. Hence, to run the program, one would do, for example:
 
