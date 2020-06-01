@@ -35,7 +35,7 @@ According to the provided arguments, this would generate a 3 by 3 puzzle, with t
 
 ## Authors
 
-* **Ricardo Soares** - [thyriki](https://github.com/thyriki)
+* **Ricardo Soares** - [rmssoares](https://github.com/rmssoares)
 
 For any inquiries, feel free to open up an issue.
 
